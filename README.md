@@ -7,7 +7,7 @@ Responsive coming soon landing page with countdown.
 * Calculates days, hours, minutes and seconds.
 
 ## The webpage generally:
-* Complitely resopnsive (e.g. if you want to make the window smaller it changes the way of view).
+* Complitely responsive (e.g. if you want to make the window smaller it changes the way of view).
 
 * No scrolling.
 
